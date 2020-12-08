@@ -1,6 +1,6 @@
 using System;
 
-namespace Angular_Sample
+namespace Angular_Sample.Service.Models
 {
     public class WeatherForecast
     {
