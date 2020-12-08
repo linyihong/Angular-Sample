@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular-Sample", "Angular-Sample\Angular-Sample.csproj", "{23B511B4-280B-4A9D-AA7D-766CCDAB3E14}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular-Sample.Data", "Angular_Sample.Data\Angular-Sample.Data.csproj", "{5B5AFF0F-F965-43C9-B2CF-ED067055701C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular-Sample.Data", "Angular-Sample.Data\Angular-Sample.Data.csproj", "{5B5AFF0F-F965-43C9-B2CF-ED067055701C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular-Sample.Service", "Angular-Sample.Service\Angular-Sample.Service.csproj", "{E36B9054-34DF-4502-A2B0-D5993C779149}"
 EndProject
