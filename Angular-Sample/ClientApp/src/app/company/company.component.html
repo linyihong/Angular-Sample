@@ -1,0 +1,19 @@
+<h1>Company</h1>
+
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="companies">
+  <thead>
+    <tr>
+      <th>ComId</th>
+      <th>CompanyName</th>
+      <th>EngName</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of companies">
+      <td>{{item.comValue}}</td>
+      <td>{{item.chName}}</td>
+      <td>{{item.engName}}</td>
+    </tr>
+  </tbody>
+</table>
