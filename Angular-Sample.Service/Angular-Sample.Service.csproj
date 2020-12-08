@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Angular_Sample.Data\Angular-Sample.Data.csproj" />
+    <ProjectReference Include="..\Angular-Sample.Data\Angular-Sample.Data.csproj" />
     <ProjectReference Include="..\Util.Data\Util.Data.csproj" />
   </ItemGroup>
 
